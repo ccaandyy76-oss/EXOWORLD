@@ -1,0 +1,20 @@
+:root {
+  --bg-main: #03050b;
+  --bg-secondary: #080d18;
+  --text-primary: #f4f7ff;
+  --text-secondary: #9ba9c2;
+  --cyan: #64e7ff;
+  --blue: #4785ff;
+  --violet: #9b7bff;
+  --warning: #ffb454;
+  --danger: #ff5d73;
+
+  --border: rgba(155, 169, 194, 0.18);
+  --glass: rgba(8, 13, 24, 0.6);
+
+  --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Sora", "Segoe UI", system-ui, sans-serif;
+
+  --nav-height: 72px;
+  --pad: clamp(16px, 4vw, 48px);
+}
